@@ -22,7 +22,7 @@ Extract all the files and move it to the 'htdocs' folder of your XAMPP directory
 Start the Apache and Mysql in your XAMPP control panel/WAMP. </br>
 Open your web browser and type 'localhost/phpmyadmin' </br>
 In phpmyadmin page, create a new database from the left panel and name it as 'hms' </br>
-Import the file 'hms.sql' inside your newly created database and click ok. </br>
+Extract 'hms.sql.zip' and Import the file 'hms.sql' inside your newly created database and click ok. </br>
 Open a new tab and type 'localhost/foldername' in the url of your browser </br>
 
 # SOFTWARES USED
