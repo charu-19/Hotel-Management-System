@@ -1,7 +1,7 @@
 # Hotel-Management-System
 Hotel Management System using PHP,MySQL.
 
-## Live Demo:<a href="https://youtu.be/VvQW2UUuxDU"></a>
+<a href="https://youtu.be/VvQW2UUuxDU">Demo video</a>
 # Prerequisites
 
 Install XAMPP/WAMP web server </br>
