@@ -4,8 +4,8 @@ Hotel Management System using MySQL, Php.
 
 # Prerequisites
 
-Install XAMPP/WAMP web server
-Any Editor (VS Code/Sublime Text/Brackets Text Editor)
+Install XAMPP/WAMP web server \n
+Any Editor (VS Code/Sublime Text/Brackets Text Editor) \n
 Any web browser with latest version(eg chrome)
 Languages and Technologies used
 HTML5/CSS3
