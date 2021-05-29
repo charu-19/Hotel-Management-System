@@ -16,7 +16,7 @@ Php  </br>
 MySQL (An RDBMS that uses SQL)  </br>
 
 # Steps to run the project in your machine
-Download and install XAMPP in your machine  </br>
+Download and install XAMPP/WAMP in your machine  </br>
 Clone or download the repository </br>
 Extract all the files and move it to the 'htdocs' folder of your XAMPP directory/'www' folder of your WAMP directory and name the folder as 'hms'. </br>
 Start the Apache and Mysql in your XAMPP control panel/WAMP. </br>
