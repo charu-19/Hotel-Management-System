@@ -26,6 +26,6 @@ Import the file 'hms.sql' inside your newly created database and click ok. </br>
 Open a new tab and type 'localhost/foldername' in the url of your browser </br>
 
 # SOFTWARES USED
-WAMP was installed on the windows 10 machine and APACHE2 Server and MySQL were initialized. And, files were built inside C:\wamp\www\hms  </br>
+WAMP was installed on the windows 10 machine and APACHE Server and MySQL were initialized. And, files were built inside C:\wamp\www\hms  </br>
 Sublime Text 3 was used as a text editor. </br>
 Google Chrome Version 77.0.3865.90 was used to run the project (localhost/hms/home.php was used as the url). </br>
